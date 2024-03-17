@@ -159,7 +159,7 @@
     "drinks": [
       {
         "name": "Tiramisu shot",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675234/nemdebar/20190905-tiramasu-shots-ehg-1352-1568752972_k7qvpe.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710677855/nemdebar_linneh/tiramisu_rkomtx.jpg",
         "ingredients": "2cl kávélikőr, 2cl Bailey's, 2cl tejszín, tejszínhab, kakaó"
       },
       {
@@ -221,6 +221,11 @@
         "name": "Barbie",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675637/nemdebar/champagne-rose-cotton-candy-cocktails-13_vjqpv7.jpg",
         "ingredients": "4cl vodka, 4cl vattacukor szirup, szóda"
+      },
+      {
+        "name": "Ízesített vodka szóda",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676963/nemdebar/Ketel-One-Soda_p9jcxo.jpg",
+        "ingredients": "4cl vodka, bármilyen gyümölcsös szirup, szóda"
       }
     ]
   },
