@@ -4,47 +4,47 @@
     "drinks": [
       {
         "name": "Zöldalmás limonádé",
-        "image": "https://ubfoody.com/wp-content/uploads/2023/02/Green-Apple-Lemonade.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710673756/nemdebar/Green-Apple-Lemonade_dwiv3i.jpg",
         "ingredients": "limonádé alap, zöldalma szirup, mentes/savas víz"
       },
       {
         "name": "Málnás limonádé",
-        "image": "https://mindfulmocktail.com/wp-content/uploads/2020/09/raspberry-lemonade-recipe-1-500x500.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710673822/nemdebar/raspberry-lemonade-recipe-1-500x500_lkuejh.webp",
         "ingredients": "limonádé alap, málna szirup, mentes/savas víz"
       },
       {
         "name": "Nagyon málnás limonádé",
-        "image": "https://www.calgiant.com/wp-content/uploads/2021/08/cg-boozy-lemonade-29-1-768x768.jpeg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710673859/nemdebar/cg-boozy-lemonade-29-1-768x768_sz3rsz.jpg",
         "ingredients": "limonádé alap, málna szirup, málna püré, mentes/savas víz"
       },
       {
         "name": "Meggyes limonádé",
-        "image": "https://afullliving.com/wp-content/uploads/2023/08/Cherry-Lemonade-1200-x-1200.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710673889/nemdebar/Cherry-Lemonade-1200-x-1200_nv6rss.jpg",
         "ingredients": "limonádé alap, meggy szirup, mentes/savas víz"
       },
       {
         "name": "Dinnyés limonádé",
-        "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FEdit%2F07-2022-watermelon-lemonade%2Fwatermelon-lemonade3",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710673916/nemdebar/k_Edit_07-2022-watermelon-lemonade_watermelon-lemonade3_jw0nfi.jpg",
         "ingredients": "limonádé alap, dinnye szirup, mentes/savas víz"
       },
       {
         "name": "Sárgadinnyés limonádé",
-        "image": "https://thefoodiephysician.com/wp-content/uploads/2012/06/fullsizeoutput_21fa-750x750.jpeg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674002/nemdebar/fullsizeoutput_21fa-750x750_f8cbc7.jpg",
         "ingredients": "limonádé alap, sárgadinnye szirup, mentes/savas víz"
       },
       {
         "name": "Grapefruitos limonádé",
-        "image": "https://static.toiimg.com/thumb/93279597.cms?imgsize=36238&width=800&height=800",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674042/nemdebar/93279597_nowgvl.webp",
         "ingredients": "limonádé alap, grapefruit szirup, mentes/savas víz"
       },
       {
         "name": "Kivis limonádé",
-        "image": "https://www.johns-juice.de/wp-content/uploads/2019/10/JOHNS-Lemonades-Pear-Kiwi-Lemonade-1000x15003.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674067/nemdebar/JOHNS-Lemonades-Pear-Kiwi-Lemonade-1000x15003_sek847.jpg",
         "ingredients": "limonádé alap, kivi szirup, mentes/savas víz"
       },
       {
         "name": "Mangós limonádé",
-        "image": "https://www.strawberryblondiekitchen.com/wp-content/uploads/2015/08/IMG_6749-copy.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674095/nemdebar/IMG_6749-copy_bo2bvc.jpg",
         "ingredients": "limonádé alap, mangó szirup, mentes/savas víz"
       },
       {
@@ -54,12 +54,12 @@
       },
       {
         "name": "Kékszőlős limonádé",
-        "image": "https://saltandbaker.com/wp-content/uploads/2021/06/Blue-Raspberry-Lemonade-4.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674149/nemdebar/Blue-Raspberry-Lemonade-4_novw2s.jpg",
         "ingredients": "limonádé alap, kékszőlő szirup, mentes/savas víz"
       },
       {
         "name": "Uborkás limonádé",
-        "image": "https://www.babaganosh.org/wp-content/uploads/2022/07/cucumber-lemonade-11.jpg.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674177/nemdebar/cucumber-lemonade-11.jpg_a0yvag.webp",
         "ingredients": "limonádé alap, uborka szirup, mentes/savas víz"
       }
     ]
@@ -69,42 +69,42 @@
     "drinks": [
       {
         "name": "Cseles zöldalmás limonádé",
-        "image": "https://cdn.shopify.com/s/files/1/0033/9148/8089/articles/Sours_-_GREEN-8_520x500.png?v=1703918513",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674732/nemdebar/Sours_-_GREEN-8_520x500_nrplpz.webp",
         "ingredients": "limonádé alap, zöldalma szirup, zöldalma likőr (17%), mentes/savas víz"
       },
       {
         "name": "Cseles málnás limonádé",
-        "image": "https://www.bakingbeauty.net/wp-content/uploads/2022/08/Shutterstock_1135376198-735x735.jpeg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674767/nemdebar/Shutterstock_1135376198-735x735_hm9guh.jpg",
         "ingredients": "limonádé alap, málna szirup, málna likőr (17%), mentes/savas víz"
       },
       {
         "name": "Cseles meggyes limonádé",
-        "image": "https://kingorchards.com/wp-content/uploads/2022/03/Sparkling-Cherry-Lemonade.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674797/nemdebar/Sparkling-Cherry-Lemonade_d39tvb.jpg",
         "ingredients": "limonádé alap, meggy szirup, meggy likőr (27%), mentes/savas víz"
       },
       {
         "name": "Cseles sárgadinnyés limonádé",
-        "image": "https://mikhaeats.com/wp-content/uploads/2021/07/Melon-Juice-Recipe-Card-1-500x500.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674825/nemdebar/Melon-Juice-Recipe-Card-1-500x500_fimjlh.webp",
         "ingredients": "limonádé alap, sárgadinnye szirup, sárgadinnye likőr (17%), mentes/savas víz"
       },
       {
         "name": "Cseles dinnyés limonádé",
-        "image": "https://www.mybakingaddiction.com/wp-content/uploads/2022/07/watermelon-lemonade-in-glasses-hero.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674853/nemdebar/watermelon-lemonade-in-glasses-hero_dgib3p.jpg",
         "ingredients": "limonádé alap, dinnye szirup, dinnye likőr (17%), mentes/savas víz"
       },
       {
         "name": "Cseles mangós limonádé",
-        "image": "https://static.toiimg.com/thumb/99782332.cms?imgsize=69252&width=800&height=800",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674882/nemdebar/99782332_zrp9gs.webp",
         "ingredients": "limonádé alap, mangó szirup, mangó likőr (15%), mentes/savas víz"
       },
       {
         "name": "Cseles kivis limonádé",
-        "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1909-kiwi-and-mint-lemonade:Mobile-1300x1150",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674914/nemdebar/1909-kiwi-and-mint-lemonade_Mobile-1300x1150_xrc8js.webp",
         "ingredients": "limonádé alap, kivi szirup, kivi likőr (17%), mentes/savas víz"
       },
       {
         "name": "Cseles grapefruitos limonádé",
-        "image": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/rio-star-grapefruit-lemonade-recipe.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674941/nemdebar/rio-star-grapefruit-lemonade-recipe_wqxnsk.webp",
         "ingredients": "limonádé alap, grapefruit szirup, grapefruit likőr (17%), mentes/savas víz"
       }
     ]
@@ -114,42 +114,42 @@
     "drinks": [
       {
         "name": "Részeges zöldalmás limonádé",
-        "image": "https://www.cocktails-road.com/images/recipe/2022/09/green-apple-and-lemon-juice.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674973/nemdebar/green-apple-and-lemon-juice_deutzi.jpg",
         "ingredients": "limonádé alap, zöldalma szirup, zöldalma likőr (17%), vodka (40%), mentes/savas víz"
       },
       {
         "name": "Részeges málnás limonádé",
-        "image": "https://www.culinaryhill.com/wp-content/uploads/2023/02/Raspberry-Lemonade-Fizz-Culinary-Hill-LR-06-e1677509892580.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674998/nemdebar/Raspberry-Lemonade-Fizz-Culinary-Hill-LR-06-e1677509892580_c3fm3o.webp",
         "ingredients": "limonádé alap, málna szirup, málna likőr (17%), málnás vodka (28%), mentes/savas víz"
       },
       {
         "name": "Részeges meggyes limonádé",
-        "image": "https://kingorchards.com/wp-content/uploads/2022/03/Sparkling-Cherry-Lemonade.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675033/nemdebar/Sparkling-Cherry-Lemonade_vxbzlm.jpg",
         "ingredients": "limonádé alap, meggy szirup, meggy likőr (27%), meggyes vodka (28%), mentes/savas víz"
       },
       {
         "name": "Részeges grapefruitos limonádé",
-        "image": "https://www.onegreenplanet.org/wp-content/uploads/2019/06/fizzy-pink-grapefruit-lemonade.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675063/nemdebar/fizzy-pink-grapefruit-lemonade_rqvt4h.jpg",
         "ingredients": "limonádé alap, grapefruit szirup, grapefruit likőr (17%), grapefruit gin (37.5%), mentes/savas víz"
       },
       {
         "name": "Részeges sárgadinnyés limonádé",
-        "image": "https://1.bp.blogspot.com/-6quIuoh3TI8/YSOEQXrdoRI/AAAAAAAA7vs/9GSdBuwcjS8jheDkNoAW9Aq93s4bcm9zQCLcBGAsYHQ/w1200-h630-p-k-no-nu/canteloupe-melon-lemonade6.JPG",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675095/nemdebar/canteloupe-melon-lemonade6_sz9iy1.jpg",
         "ingredients": "limonádé alap, sárgadinnye szirup, sárgadinnye likőr (17%), vodka (40%), mentes/savas víz"
       },
       {
         "name": "Részeges dinnyés limonádé",
-        "image": "https://www.carolinescooking.com/wp-content/uploads/2022/08/watermelon-mint-lemonade-featured-pic-sq.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675145/nemdebar/watermelon-mint-lemonade-featured-pic-sq_rrqh7e.webp",
         "ingredients": "limonádé alap, dinnye szirup, dinnye likőr (17%), vodka (40%), mentes/savas víz"
       },
       {
         "name": "Részeges mangós limonádé",
-        "image": "https://burrataandbubbles.com/wp-content/uploads/2023/05/mango-lemonade-featured-image.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675171/nemdebar/mango-lemonade-featured-image_fgfxxq.jpg",
         "ingredients": "limonádé alap, mangó szirup, mangó likőr (15%), vodka (40%), mentes/savas víz"
       },
       {
         "name": "Részeges kivis limonádé",
-        "image": "https://static.toiimg.com/thumb/84618086.cms?width=1200&height=900",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675201/nemdebar/84618086_jbck7w.webp",
         "ingredients": "limonádé alap, kivi szirup, kivi likőr (17%), vodka (40%), mentes/savas víz"
       }
     ]
@@ -159,67 +159,67 @@
     "drinks": [
       {
         "name": "Tiramisu shot",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/20190905-tiramasu-shots-ehg-1352-1568752972.jpg?crop=1.00xw:0.849xh;0,0.0481xh",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675234/nemdebar/20190905-tiramasu-shots-ehg-1352-1568752972_k7qvpe.jpg",
         "ingredients": "2cl kávélikőr, 2cl Bailey's, 2cl tejszín, tejszínhab, kakaó"
       },
       {
         "name": "Appletini",
-        "image": "https://amandascookin.com/wp-content/uploads/2020/04/appletini-cocktail-recipe-RC-500x500.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675261/nemdebar/appletini-cocktail-recipe-RC-500x500_wokgqh.jpg",
         "ingredients": "4cl vodka, 2cl zöldalma likőr, 4cl almalé"
       },
       {
         "name": "Sweet&Sour Apple",
-        "image": "https://cdn.tipsybartender.com/tipsybartender/jpg//wp-content/uploads/2018/03/tokyo-iced-tea.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675284/nemdebar/tokyo-iced-tea_avtbqy.webp",
         "ingredients": "2cl vodka, 2cl zöldalma likőr, 2cl zöldalma szirup, 1dl almalé, 1dl Sprite"
       },
       {
         "name": "Rainbow shot",
-        "image": "https://thelittlestcrumb.com/wp-content/uploads/rainbow-shots-1.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675312/nemdebar/rainbow-shots-1_r9zixv.jpg",
         "ingredients": "2cl vodka, 4cl narancslé, 2cl grenadine, 2cl blue curacao"
       },
       {
         "name": "Tequila sunrise",
-        "image": "https://www.acouplecooks.com/wp-content/uploads/2020/04/Tequila-Sunrise-003.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675341/nemdebar/Tequila-Sunrise-003_mu1r8q.webp",
         "ingredients": "4cl vodka, 2cl grenadine, 2dl narancslé, jég"
       },
       {
         "name": "Blue lagoon",
-        "image": "https://static.streetkitchen.hu/live/uploads/2023/06/blue-lagoon-koktel-1-scaled.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675369/nemdebar/blue-lagoon-koktel-1-scaled_ckba9r.jpg",
         "ingredients": "2cl vodka, 2cl blue curacao, 4cl citromlé, 4cl cukorszirup, 1.5dl szóda"
       },
       {
         "name": "Toasted Almond",
-        "image": "https://www.acouplecooks.com/wp-content/uploads/2021/10/Toasted-Almond-Drink-053.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675396/nemdebar/Toasted-Almond-Drink-053_aiwdqk.webp",
         "ingredients": "4cl vodka, 4cl amaretto, 2cl kávélikőr, 6cl tejszín"
       },
       {
         "name": "Screaming Orgasm",
-        "image": "https://cdn.tipsybartender.com/tipsybartender/jpg//wp-content/uploads/2018/01/TheScreamingOrgasmThumb.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675449/nemdebar/TheScreamingOrgasmThumb_ddhldx.webp",
         "ingredients": "4cl vodka, 4cl kávélikőr, 4cl amaretto, 4cl Bailey's, 4cl tejszín, 4cl tej"
       },
       {
         "name": "French Martini",
-        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/french-martini-03b9a1a.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675508/nemdebar/french-martini-03b9a1a_nivpzf.jpg",
         "ingredients": "3cl vodka, 3cl málna likőr, 5cl ananászlé"
       },
       {
         "name": "Umbongo",
-        "image": "https://cocktailsdistilled.com/wp-content/uploads/2019/01/Umbongo.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675537/nemdebar/Umbongo_kvqf4q.jpg",
         "ingredients": "4cl vodka, 3cl maracuja likőr, 3cl narancslé, 2cl citromlé, Canada Dry"
       },
       {
         "name": "Kiwi Collins",
-        "image": "https://theduke-gin.de/cdn/shop/articles/9.jpg?v=1695981127",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675569/nemdebar/9_ntzzeo.webp",
         "ingredients": "4cl gin, 2cl kivi likőr, 3cl citromlé, 8cl cukorszirup, szóda"
       },
       {
         "name": "Summer Fresh",
-        "image": "https://www.acouplecooks.com/wp-content/uploads/2020/10/Vodka-Spritzer-003.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675603/nemdebar/Vodka-Spritzer-003_wfhzmi.webp",
         "ingredients": "4cl vodka, 2cl maracuja likőr, 2cl eper szirup, 2cl limelé, almalé"
       },
       {
         "name": "Barbie",
-        "image": "https://kirbiecravings.com/wp-content/uploads/2016/07/champagne-rose-cotton-candy-cocktails-13.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675637/nemdebar/champagne-rose-cotton-candy-cocktails-13_vjqpv7.jpg",
         "ingredients": "4cl vodka, 4cl vattacukor szirup, szóda"
       }
     ]
@@ -229,97 +229,97 @@
     "drinks": [
       {
         "name": "Beefeater gin Vérnarancs",
-        "image": "https://s13emagst.akamaized.net/products/30572/30571379/images/res_c1d54619023642a1a3d0cfcd1e2e5cd8.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676190/nemdebar/res_c1d54619023642a1a3d0cfcd1e2e5cd8_mvqq4j.webp",
         "ingredients": "37.5%"
       },
       {
         "name": "Hendrick's gin",
-        "image": "https://p1.akcdn.net/full/399189582.hendrick-s-gin-41-4-0-7-l.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676212/nemdebar/399189582.hendrick-s-gin-41-4-0-7-l_rpzvms.jpg",
         "ingredients": "41%"
       },
       {
         "name": "Bols amaretto likőr",
-        "image": "https://alkoholshop.hu/wp-content/uploads/2020/11/Bols-Amaretto-07l-24.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676241/nemdebar/Bols-Amaretto-07l-24_qoy4vn.webp",
         "ingredients": "24%"
       },
       {
         "name": "Armilar amaretto likőr",
-        "image": "https://cashmap.hu/storage/product/63d7adefb290d.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676269/nemdebar/63d7adefb290d_hngio8.jpg",
         "ingredients": "28%"
       },
       {
         "name": "Bols kakaó likőr",
-        "image": "https://alkoholshop.hu/wp-content/uploads/2022/12/Bols-Creme-de-Cacao-Braun-07l-24.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676297/nemdebar/Bols-Creme-de-Cacao-Braun-07l-24_auqiai.webp",
         "ingredients": "24%"
       },
       {
         "name": "Bols fehér kakaó likőr",
-        "image": "https://colordevino.ca/images/P/p_27217.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676323/nemdebar/p_27217_ovv7fj.jpg",
         "ingredients": "24%"
       },
       {
         "name": "Bols kávé likőr",
-        "image": "https://piaolcson.hu/wp-content/uploads/2023/07/bols-coffee-likor-07.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676355/nemdebar/bols-coffee-likor-07_mnvjx4.webp",
         "ingredients": "20%"
       },
       {
         "name": "Absolut vodka",
-        "image": "https://secure.ce-tescoassets.com/assets/HU/683/7312040017683/ShotType1_540x540.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676380/nemdebar/ShotType1_540x540_wj9x5p.jpg",
         "ingredients": "24%"
       },
       {
         "name": "Russian Standard vodka",
-        "image": "https://www.vitexim.hu/storage/4975/conversions/637702-watermarked.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676406/nemdebar/637702-watermarked_y99knf.jpg",
         "ingredients": "24%"
       },
       {
         "name": "Royal meggy likőr",
-        "image": "https://secure.ce-tescoassets.com/assets/HU/961/5998821512961/ShotType1_540x540.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676432/nemdebar/ShotType1_540x540_1_nfhpsu.jpg",
         "ingredients": "28%"
       },
       {
         "name": "Royal málna likőr",
-        "image": "https://secure.ce-tescoassets.com/assets/HU/794/5998821512794/ShotType1_540x540.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676460/nemdebar/ShotType1_540x540_2_kmmii0.jpg",
         "ingredients": "28%"
       },
       {
         "name": "Alliance sós karamell likőr",
-        "image": "https://cashmap.hu/storage/product/619c26ca09388.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676487/nemdebar/619c26ca09388_t45vgr.jpg",
         "ingredients": "15%"
       },
       {
         "name": "Sharon's csokis meggy likőr",
-        "image": "https://s2.olcsobbat.hu/images/eur_sharon_s_csokis_meggy_kremlikor_0_5l_15-6155439d0fc421fede911da3-400x400-resize-transparent.png",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676516/nemdebar/eur_sharon_s_csokis_meggy_kremlikor_0_5l_15-6155439d0fc421fede911da3-400x400-resize-transparent_icsmos.webp",
         "ingredients": "15%"
       },
       {
         "name": "Jagermeister",
-        "image": "https://italszakerto.hu/img/44762/product_902/product_902.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676546/nemdebar/product_902_mgp5fd.webp",
         "ingredients": "35%"
       },
       {
         "name": "Kraken black spiced rum",
-        "image": "https://cdn11.bigcommerce.com/s-taixn69rog/images/stencil/1280x1280/products/27921/805917/146588__81735.1637564667.jpg?c=1",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676571/nemdebar/146588__81735_ppvgva.jpg",
         "ingredients": "40%"
       },
       {
         "name": "Ouzo",
-        "image": "https://italdepo.hu/wp-content/uploads/2020/02/italdepo_716_716_ouzo_12w-600x600.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676594/nemdebar/italdepo_716_716_ouzo_12w-600x600_cdfnqq.jpg",
         "ingredients": "40%"
       },
       {
         "name": "Bailey's",
-        "image": "https://secure.ce-tescoassets.com/assets/HU/156/5011013100156/ShotType1_540x540.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676614/nemdebar/ShotType1_540x540_upidfu.jpg",
         "ingredients": "17%"
       },
       {
         "name": "Bols Advocaat tojáslikőr",
-        "image": "https://static.groby.hu/media/82a/dc7/conv/Bols-Advocaat-toj%C3%A1slik%C5%91r-15%25-0%2C7-l-full.png",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676634/nemdebar/Bols-Advocaat-toj%C3%A1slik%C5%91r-15_-0_7-l-full_x382eh.png",
         "ingredients": "15%"
       },
       {
         "name": "Unicum",
-        "image": "https://spiritdrink.hu/image/cache/catalog/zwack/unicum_1l-450x450h.png",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676658/nemdebar/unicum_1l-450x450h_mlvwfq.png",
         "ingredients": "40%"
       }
     ]
