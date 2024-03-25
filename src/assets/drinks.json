@@ -61,6 +61,16 @@
         "name": "Uborkás limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674177/nemdebar/cucumber-lemonade-11.jpg_a0yvag.webp",
         "ingredients": "limonádé alap, uborka szirup, mentes/savas víz"
+      },
+      {
+        "name": "Alap limonádé",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711361360/nemdebar_linneh/limonade_hfjla1.jpg",
+        "ingredients": "limonádé alap, cukorszirup, mentes/savas víz"
+      },
+      {
+        "name": "Epres limonádé",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711361684/nemdebar_linneh/epres_limonade_afrrig.jpg",
+        "ingredients": "limonádé alap, eper szirup, mentes/savas víz"
       }
     ]
   },
@@ -106,6 +116,11 @@
         "name": "Cseles grapefruitos limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674941/nemdebar/rio-star-grapefruit-lemonade-recipe_wqxnsk.webp",
         "ingredients": "limonádé alap, grapefruit szirup, grapefruit likőr (17%), mentes/savas víz"
+      },
+      {
+        "name": "Cseles epres limonádé",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360821/nemdebar_linneh/cseles_epres_limonade_py7p3d.jpg",
+        "ingredients": "limonádé alap, eper szirup, eper likőr (17%), mentes/savas víz"
       }
     ]
   },
@@ -151,6 +166,12 @@
         "name": "Részeges kivis limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675201/nemdebar/84618086_jbck7w.webp",
         "ingredients": "limonádé alap, kivi szirup, kivi likőr (17%), vodka (40%), mentes/savas víz"
+      },
+
+      {
+        "name": "Részeges epres limonádé",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360641/nemdebar_linneh/reszeges_epres_limonade_patmtl.jpg",
+        "ingredients": "limonádé alap, eper szirup, eper likőr (17%), epres gin (40%), mentes/savas víz"
       }
     ]
   },
@@ -214,7 +235,7 @@
       },
       {
         "name": "Summer Fresh",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675603/nemdebar/Vodka-Spritzer-003_wfhzmi.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360543/nemdebar_linneh/summer_fresh_cjkrnm.jpg",
         "ingredients": "4cl vodka, 2cl maracuja likőr, 2cl eper szirup, 2cl limelé, almalé"
       },
       {
@@ -224,7 +245,7 @@
       },
       {
         "name": "Ízesített vodka szóda",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676963/nemdebar/Ketel-One-Soda_p9jcxo.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360318/nemdebar_linneh/vodka_szoda_izjbch.jpg",
         "ingredients": "4cl vodka, bármilyen gyümölcsös szirup, szóda"
       }
     ]

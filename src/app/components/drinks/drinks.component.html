@@ -28,7 +28,7 @@
 
   <div class="flex flex-col flex-wrap items-center md:flex-row my-10 align-center self-center justify-evenly mt-20">
     <div class="m-5 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 min-w-72" *ngFor="let drink of displayedDrinks">
-      <img class="object-cover w-full rounded-t-lg h-60 mx-auto" src="{{drink.image}}" alt="">
+      <img class="object-cover w-full rounded-t-lg h-80 mx-auto" src="{{drink.image}}" alt="">
       <div class="flex flex-col justify-between p-4 leading-normal">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white no-wrap">{{drink.name}}</h5>
         <p class="ingredient mb-3 font-normal text-gray-700 dark:text-gray-400">{{formatIngredients(drink.ingredients)}}</p>
