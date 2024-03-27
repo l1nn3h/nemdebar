@@ -4,7 +4,7 @@
     "drinks": [
       {
         "name": "Zöldalmás limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710673756/nemdebar/Green-Apple-Lemonade_dwiv3i.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/reszeges_zoldalma_rj51yg.jpg",
         "ingredients": "limonádé alap, zöldalma szirup, mentes/savas víz"
       },
       {
@@ -39,7 +39,7 @@
       },
       {
         "name": "Kivis limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674067/nemdebar/JOHNS-Lemonades-Pear-Kiwi-Lemonade-1000x15003_sek847.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/kiwi_limonade_uhfa8a.jpg",
         "ingredients": "limonádé alap, kivi szirup, mentes/savas víz"
       },
       {
@@ -79,7 +79,7 @@
     "drinks": [
       {
         "name": "Cseles zöldalmás limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674732/nemdebar/Sours_-_GREEN-8_520x500_nrplpz.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/cseles_zoldalma_ad8njs.jpg",
         "ingredients": "limonádé alap, zöldalma szirup, zöldalma likőr (17%), mentes/savas víz"
       },
       {
@@ -109,7 +109,7 @@
       },
       {
         "name": "Cseles kivis limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674914/nemdebar/1909-kiwi-and-mint-lemonade_Mobile-1300x1150_xrc8js.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/cseles_kiwi_rrvy4t.jpg",
         "ingredients": "limonádé alap, kivi szirup, kivi likőr (17%), mentes/savas víz"
       },
       {
@@ -129,7 +129,7 @@
     "drinks": [
       {
         "name": "Részeges zöldalmás limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674973/nemdebar/green-apple-and-lemon-juice_deutzi.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/reszeges_zoldalma_rj51yg.jpg",
         "ingredients": "limonádé alap, zöldalma szirup, zöldalma likőr (17%), vodka (40%), mentes/savas víz"
       },
       {
@@ -164,7 +164,7 @@
       },
       {
         "name": "Részeges kivis limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675201/nemdebar/84618086_jbck7w.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/reszeges_kiwi_ssve3r.jpg",
         "ingredients": "limonádé alap, kivi szirup, kivi likőr (17%), vodka (40%), mentes/savas víz"
       },
 
@@ -180,17 +180,17 @@
     "drinks": [
       {
         "name": "Tiramisu shot",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710677855/nemdebar_linneh/tiramisu_rkomtx.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574962/nemdebar_linneh/tiramisu_mf5wq6.jpg",
         "ingredients": "2cl kávélikőr, 2cl Bailey's, 2cl tejszín, tejszínhab, kakaó"
       },
       {
         "name": "Appletini",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675261/nemdebar/appletini-cocktail-recipe-RC-500x500_wokgqh.jpg",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/appletini_zeqh79.jpg",
         "ingredients": "4cl vodka, 2cl zöldalma likőr, 4cl almalé"
       },
       {
         "name": "Sweet&Sour Apple",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675284/nemdebar/tokyo-iced-tea_avtbqy.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/sweet_sour_apple_hmdonu.jpg",
         "ingredients": "2cl vodka, 2cl zöldalma likőr, 2cl zöldalma szirup, 1dl almalé, 1dl Sprite"
       },
       {
@@ -230,7 +230,7 @@
       },
       {
         "name": "Kiwi Collins",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675569/nemdebar/9_ntzzeo.webp",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/kiwi_collins_x8yugf.jpg",
         "ingredients": "4cl gin, 2cl kivi likőr, 3cl citromlé, 8cl cukorszirup, szóda"
       },
       {
