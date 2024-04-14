@@ -201,7 +201,7 @@
       {
         "name": "Tequila sunrise",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675341/nemdebar/Tequila-Sunrise-003_mu1r8q.webp",
-        "ingredients": "4cl vodka, 2cl grenadine, 2dl narancslé, jég"
+        "ingredients": "4cl tequila, 2cl grenadine, 2dl narancslé, jég"
       },
       {
         "name": "Blue lagoon",
@@ -247,106 +247,6 @@
         "name": "Ízesített vodka szóda",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360318/nemdebar_linneh/vodka_szoda_izjbch.jpg",
         "ingredients": "4cl vodka, bármilyen gyümölcsös szirup, szóda"
-      }
-    ]
-  },
-  {
-    "category": "rövidital",
-    "drinks": [
-      {
-        "name": "Beefeater gin Vérnarancs",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676190/nemdebar/res_c1d54619023642a1a3d0cfcd1e2e5cd8_mvqq4j.webp",
-        "ingredients": "37.5%"
-      },
-      {
-        "name": "Hendrick's gin",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676212/nemdebar/399189582.hendrick-s-gin-41-4-0-7-l_rpzvms.jpg",
-        "ingredients": "41%"
-      },
-      {
-        "name": "Bols amaretto likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676241/nemdebar/Bols-Amaretto-07l-24_qoy4vn.webp",
-        "ingredients": "24%"
-      },
-      {
-        "name": "Armilar amaretto likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676269/nemdebar/63d7adefb290d_hngio8.jpg",
-        "ingredients": "28%"
-      },
-      {
-        "name": "Bols kakaó likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676297/nemdebar/Bols-Creme-de-Cacao-Braun-07l-24_auqiai.webp",
-        "ingredients": "24%"
-      },
-      {
-        "name": "Bols fehér kakaó likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676323/nemdebar/p_27217_ovv7fj.jpg",
-        "ingredients": "24%"
-      },
-      {
-        "name": "Bols kávé likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676355/nemdebar/bols-coffee-likor-07_mnvjx4.webp",
-        "ingredients": "20%"
-      },
-      {
-        "name": "Absolut vodka",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676380/nemdebar/ShotType1_540x540_wj9x5p.jpg",
-        "ingredients": "24%"
-      },
-      {
-        "name": "Russian Standard vodka",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676406/nemdebar/637702-watermarked_y99knf.jpg",
-        "ingredients": "24%"
-      },
-      {
-        "name": "Royal meggy likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676432/nemdebar/ShotType1_540x540_1_nfhpsu.jpg",
-        "ingredients": "28%"
-      },
-      {
-        "name": "Royal málna likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676460/nemdebar/ShotType1_540x540_2_kmmii0.jpg",
-        "ingredients": "28%"
-      },
-      {
-        "name": "Alliance sós karamell likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676487/nemdebar/619c26ca09388_t45vgr.jpg",
-        "ingredients": "15%"
-      },
-      {
-        "name": "Sharon's csokis meggy likőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676516/nemdebar/eur_sharon_s_csokis_meggy_kremlikor_0_5l_15-6155439d0fc421fede911da3-400x400-resize-transparent_icsmos.webp",
-        "ingredients": "15%"
-      },
-      {
-        "name": "Jagermeister",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676546/nemdebar/product_902_mgp5fd.webp",
-        "ingredients": "35%"
-      },
-      {
-        "name": "Kraken black spiced rum",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676571/nemdebar/146588__81735_ppvgva.jpg",
-        "ingredients": "40%"
-      },
-      {
-        "name": "Ouzo",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676594/nemdebar/italdepo_716_716_ouzo_12w-600x600_cdfnqq.jpg",
-        "ingredients": "40%"
-      },
-      {
-        "name": "Bailey's",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676614/nemdebar/ShotType1_540x540_upidfu.jpg",
-        "ingredients": "17%"
-      },
-      {
-        "name": "Bols Advocaat tojáslikőr",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676634/nemdebar/Bols-Advocaat-toj%C3%A1slik%C5%91r-15_-0_7-l-full_x382eh.png",
-        "ingredients": "15%"
-      },
-      {
-        "name": "Unicum",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710676658/nemdebar/unicum_1l-450x450h_mlvwfq.png",
-        "ingredients": "40%"
       }
     ]
   }
