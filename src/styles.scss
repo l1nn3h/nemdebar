@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 .selected-category {
-  color: #990ce0;
+  color: #d13684 !important;
+  font-weight: bold;
 }
-
 
 .ingredient {
   white-space: pre-line;
