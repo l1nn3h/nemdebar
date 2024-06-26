@@ -22,19 +22,19 @@ export class CocktailService {
     return drinksByCategory ? drinksByCategory.drinks : [];
   }
 
-  removeDrinkFromFavorites(drinkToBeRemoved: DrinkModel): void {
+  removeDrinkFromFavorites(drinkToBeRemoved: string): void {
     const favorites = this.getFavoriteDrinkNames();
-    if (favorites.includes(drinkToBeRemoved.name)) {
-      localStorage.setItem('favoriteDrinks', JSON.stringify(favorites.filter(s => s !== drinkToBeRemoved.name)));
+    if (favorites.includes(drinkToBeRemoved)) {
+      localStorage.setItem('favoriteDrinks', JSON.stringify(favorites.filter(s => s !== drinkToBeRemoved)));
       const drinkFromList = this.drinks
                                    .filter(d => d.category != "kedvencek")
                                    .flatMap(d => d.drinks)
-                                   .find(d=> d.name === drinkToBeRemoved.name);
+                                   .find(d=> d.name === drinkToBeRemoved);
       if (drinkFromList) {
         drinkFromList.liked = false;
         const favoriteDrinkCategory = this.drinks.find(c => c.category === 'kedvencek')
         if (favoriteDrinkCategory) {
-          const index = favoriteDrinkCategory.drinks.findIndex(d => d.name === drinkToBeRemoved.name);
+          const index = favoriteDrinkCategory.drinks.findIndex(d => d.name === drinkToBeRemoved);
           favoriteDrinkCategory.drinks.splice(index, 1);
         }
       }
@@ -70,8 +70,12 @@ export class CocktailService {
       const drink = this.drinks
                         .flatMap(dbc => dbc.drinks)
                         .filter(d => drinkName === d.name)[0];
-      drink.liked = true;
-      favoriteCategory.drinks.push(drink);
+      if (drink) {
+        drink.liked = true;
+        favoriteCategory.drinks.push(drink);
+      } else {
+        this.removeDrinkFromFavorites(drinkName);
+      }
     }
     this.drinks.push(favoriteCategory);
   }

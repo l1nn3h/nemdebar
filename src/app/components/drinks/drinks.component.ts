@@ -41,7 +41,7 @@ export class DrinksComponent {
 
   changeLikedStatus(drink: DrinkModel) {
     if (drink.liked) {
-      this.service.removeDrinkFromFavorites(drink);
+      this.service.removeDrinkFromFavorites(drink.name);
     } else {
       this.service.addDrinkToFavorites(drink);
     }

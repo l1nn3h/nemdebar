@@ -71,6 +71,16 @@
         "name": "Epres limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711361684/nemdebar_linneh/epres_limonade_afrrig.jpg",
         "ingredients": "limonádé alap, eper szirup, mentes/savas víz"
+      },
+      {
+        "name": "Vérnaracsos limonádé",
+        "image": "https://cookingwithawallflower.com/wp-content/uploads/2015/03/Blood-Orange-Lemonade-2.jpg",
+        "ingredients": "limonádé alap, vérnarancs szirup, mentes/savas víz"
+      },
+      {
+        "name": "Ananászos limonádé",
+        "image": "https://www.passionforsavings.com/content/uploads/2022/03/Pineapple-drink.jpg",
+        "ingredients": "limonádé alap, ananász szirup, mentes/savas víz"
       }
     ]
   },
@@ -116,11 +126,6 @@
         "name": "Cseles grapefruitos limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674941/nemdebar/rio-star-grapefruit-lemonade-recipe_wqxnsk.webp",
         "ingredients": "limonádé alap, grapefruit szirup, grapefruit likőr (17%), mentes/savas víz"
-      },
-      {
-        "name": "Cseles epres limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360821/nemdebar_linneh/cseles_epres_limonade_py7p3d.jpg",
-        "ingredients": "limonádé alap, eper szirup, eper likőr (17%), mentes/savas víz"
       }
     ]
   },
@@ -143,9 +148,9 @@
         "ingredients": "limonádé alap, meggy szirup, meggy likőr (27%), meggyes vodka (28%), mentes/savas víz"
       },
       {
-        "name": "Részeges grapefruitos limonádé",
+        "name": "Részeges vérnarancsos limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675063/nemdebar/fizzy-pink-grapefruit-lemonade_rqvt4h.jpg",
-        "ingredients": "limonádé alap, grapefruit szirup, grapefruit likőr (17%), grapefruit gin (37.5%), mentes/savas víz"
+        "ingredients": "limonádé alap, vérnarancs szirup, vérnarancs likőr (17%), vérnarancs gin (37.5%), mentes/savas víz"
       },
       {
         "name": "Részeges sárgadinnyés limonádé",
@@ -155,7 +160,7 @@
       {
         "name": "Részeges dinnyés limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675145/nemdebar/watermelon-mint-lemonade-featured-pic-sq_rrqh7e.webp",
-        "ingredients": "limonádé alap, dinnye szirup, dinnye likőr (17%), vodka (40%), mentes/savas víz"
+        "ingredients": "limonádé alap, dinnye szirup, dinnye likőr (17%), dinnyés gin (37%), mentes/savas víz"
       },
       {
         "name": "Részeges mangós limonádé",
@@ -166,12 +171,6 @@
         "name": "Részeges kivis limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/reszeges_kiwi_ssve3r.jpg",
         "ingredients": "limonádé alap, kivi szirup, kivi likőr (17%), vodka (40%), mentes/savas víz"
-      },
-
-      {
-        "name": "Részeges epres limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360641/nemdebar_linneh/reszeges_epres_limonade_patmtl.jpg",
-        "ingredients": "limonádé alap, eper szirup, eper likőr (17%), epres gin (40%), mentes/savas víz"
       }
     ]
   },
@@ -179,19 +178,9 @@
     "category": "koktél",
     "drinks": [
       {
-        "name": "Tiramisu shot",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574962/nemdebar_linneh/tiramisu_mf5wq6.jpg",
-        "ingredients": "2cl kávélikőr, 2cl Bailey's, 2cl tejszín, tejszínhab, kakaó"
-      },
-      {
         "name": "Appletini",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/appletini_zeqh79.jpg",
         "ingredients": "4cl vodka, 2cl zöldalma likőr, 4cl almalé"
-      },
-      {
-        "name": "Sweet&Sour Apple",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/sweet_sour_apple_hmdonu.jpg",
-        "ingredients": "2cl vodka, 2cl zöldalma likőr, 2cl zöldalma szirup, 1dl almalé, 1dl Sprite"
       },
       {
         "name": "Rainbow shot",
@@ -199,24 +188,9 @@
         "ingredients": "2cl vodka, 4cl narancslé, 2cl grenadine, 2cl blue curacao"
       },
       {
-        "name": "Tequila sunrise",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675341/nemdebar/Tequila-Sunrise-003_mu1r8q.webp",
-        "ingredients": "4cl tequila, 2cl grenadine, 2dl narancslé, jég"
-      },
-      {
         "name": "Blue lagoon",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675369/nemdebar/blue-lagoon-koktel-1-scaled_ckba9r.jpg",
         "ingredients": "2cl vodka, 2cl blue curacao, 4cl citromlé, 4cl cukorszirup, 1.5dl szóda"
-      },
-      {
-        "name": "Toasted Almond",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675396/nemdebar/Toasted-Almond-Drink-053_aiwdqk.webp",
-        "ingredients": "4cl vodka, 4cl amaretto, 2cl kávélikőr, 6cl tejszín"
-      },
-      {
-        "name": "Screaming Orgasm",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675449/nemdebar/TheScreamingOrgasmThumb_ddhldx.webp",
-        "ingredients": "4cl vodka, 4cl kávélikőr, 4cl amaretto, 4cl Bailey's, 4cl tejszín, 4cl tej"
       },
       {
         "name": "French Martini",

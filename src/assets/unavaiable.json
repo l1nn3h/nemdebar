@@ -1,0 +1,32 @@
+[
+  {
+    "category": "koktél",
+    "drinks": [
+      {
+        "name": "Sweet&Sour Apple",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/sweet_sour_apple_hmdonu.jpg",
+        "ingredients": "2cl vodka, 2cl zöldalma likőr, 2cl zöldalma szirup, 1dl almalé, 1dl Sprite"
+      },
+      {
+        "name": "Tequila sunrise",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675341/nemdebar/Tequila-Sunrise-003_mu1r8q.webp",
+        "ingredients": "4cl tequila, 2cl grenadine, 2dl narancslé, jég"
+      },
+      {
+        "name": "Toasted Almond",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675396/nemdebar/Toasted-Almond-Drink-053_aiwdqk.webp",
+        "ingredients": "4cl vodka, 4cl amaretto, 2cl kávélikőr, 6cl tejszín"
+      },
+      {
+        "name": "Screaming Orgasm",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675449/nemdebar/TheScreamingOrgasmThumb_ddhldx.webp",
+        "ingredients": "4cl vodka, 4cl kávélikőr, 4cl amaretto, 4cl Bailey's, 4cl tejszín, 4cl tej"
+      },
+      {
+        "name": "Tiramisu shot",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574962/nemdebar_linneh/tiramisu_mf5wq6.jpg",
+        "ingredients": "2cl kávélikőr, 2cl Bailey's, 2cl tejszín, tejszínhab, kakaó"
+      }
+    ]
+  }
+]
