@@ -26,6 +26,25 @@
         "name": "Tiramisu shot",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574962/nemdebar_linneh/tiramisu_mf5wq6.jpg",
         "ingredients": "2cl kávélikőr, 2cl Bailey's, 2cl tejszín, tejszínhab, kakaó"
+      },
+      {
+        "name": "Summer Fresh",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360543/nemdebar_linneh/summer_fresh_cjkrnm.jpg",
+        "ingredients": "4cl vodka, 2cl maracuja likőr, 2cl eper szirup, 2cl limelé, almalé"
+      },
+      {
+        "name": "Umbongo",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675537/nemdebar/Umbongo_kvqf4q.jpg",
+        "ingredients": "4cl vodka, 3cl maracuja likőr, 3cl narancslé, 2cl citromlé, Canada Dry"
+      },
+      {
+        "name": "Rainbow shot",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675312/nemdebar/rainbow-shots-1_r9zixv.jpg",
+        "ingredients": "2cl vodka, 4cl narancslé, 2cl grenadine, 2cl blue curacao"
+      },      {
+        "name": "Appletini",
+        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/appletini_zeqh79.jpg",
+        "ingredients": "4cl vodka, 2cl zöldalma likőr, 4cl almalé"
       }
     ]
   }

@@ -4,7 +4,7 @@
     "drinks": [
       {
         "name": "Zöldalmás limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/reszeges_zoldalma_rj51yg.jpg",
+        "image": "https://www.wellwisdom.com/wp-content/uploads/2022/11/green-apple-lemonade.jpg",
         "ingredients": "limonádé alap, zöldalma szirup, mentes/savas víz"
       },
       {
@@ -30,7 +30,7 @@
       {
         "name": "Sárgadinnyés limonádé",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710674002/nemdebar/fullsizeoutput_21fa-750x750_f8cbc7.jpg",
-        "ingredients": "limonádé alap, sárgadinnye szirup, mentes/savas víz"
+        "ingredients": "limonádé alap, cukormentes sárgadinnye szirup, mentes/savas víz"
       },
       {
         "name": "Grapefruitos limonádé",
@@ -39,7 +39,7 @@
       },
       {
         "name": "Kivis limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/kiwi_limonade_uhfa8a.jpg",
+        "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1909-kiwi-and-mint-lemonade:Mobile-1300x1150",
         "ingredients": "limonádé alap, kivi szirup, mentes/savas víz"
       },
       {
@@ -64,12 +64,12 @@
       },
       {
         "name": "Alap limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711361360/nemdebar_linneh/limonade_hfjla1.jpg",
+        "image": "https://i2.wp.com/lmld.org/wp-content/uploads/2022/04/Lemonade-4.jpg",
         "ingredients": "limonádé alap, cukorszirup, mentes/savas víz"
       },
       {
         "name": "Epres limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711361684/nemdebar_linneh/epres_limonade_afrrig.jpg",
+        "image": "https://sweetsandthankyou.com/wp-content/uploads/2022/04/Strawberry-Basil-Lemonade28-2.jpg",
         "ingredients": "limonádé alap, eper szirup, mentes/savas víz"
       },
       {
@@ -81,6 +81,21 @@
         "name": "Ananászos limonádé",
         "image": "https://www.passionforsavings.com/content/uploads/2022/03/Pineapple-drink.jpg",
         "ingredients": "limonádé alap, ananász szirup, mentes/savas víz"
+      },
+      {
+        "name": "Őszibarackos limonádé",
+        "image": "https://sweetlysplendid.com/wp-content/uploads/2020/08/peach-lemonade-5.jpg",
+        "ingredients": "limonádé alap, őszibarack szirup, mentes/savas víz"
+      },
+      {
+        "name": "Bodzás limonádé",
+        "image": "https://www.occasionallyeggs.com/wp-content/uploads/2020/06/Elderflower-Lemonade-2.jpg",
+        "ingredients": "limonádé alap, cukormentes bodza szirup, mentes/savas víz"
+      },
+      {
+        "name": "Extra citrusos limonádé",
+        "image": "https://i0.wp.com/foodbylingling.com/wp-content/uploads/2023/05/DSC_1283.jpg?resize=800%2C1000&ssl=1",
+        "ingredients": "limonádé alap, lime szirup, grapefruit szirup, mentes/savas víz"
       }
     ]
   },
@@ -89,7 +104,7 @@
     "drinks": [
       {
         "name": "Cseles zöldalmás limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/cseles_zoldalma_ad8njs.jpg",
+        "image": "https://ubfoody.com/wp-content/uploads/2023/02/Green-Apple-Lemonade.jpg",
         "ingredients": "limonádé alap, zöldalma szirup, zöldalma likőr (17%), mentes/savas víz"
       },
       {
@@ -119,7 +134,7 @@
       },
       {
         "name": "Cseles kivis limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/cseles_kiwi_rrvy4t.jpg",
+        "image": "https://static.toiimg.com/thumb/84618086.cms?width=1200&height=900",
         "ingredients": "limonádé alap, kivi szirup, kivi likőr (17%), mentes/savas víz"
       },
       {
@@ -134,7 +149,7 @@
     "drinks": [
       {
         "name": "Részeges zöldalmás limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/reszeges_zoldalma_rj51yg.jpg",
+        "image": "https://static.toiimg.com/photo/60258570.cms",
         "ingredients": "limonádé alap, zöldalma szirup, zöldalma likőr (17%), vodka (40%), mentes/savas víz"
       },
       {
@@ -169,7 +184,7 @@
       },
       {
         "name": "Részeges kivis limonádé",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574961/nemdebar_linneh/reszeges_kiwi_ssve3r.jpg",
+        "image": "https://thepinchoftaste.com/assets/images/blogs/Kiwi_mint__2021_08_14_12_11_21.jpg",
         "ingredients": "limonádé alap, kivi szirup, kivi likőr (17%), vodka (40%), mentes/savas víz"
       }
     ]
@@ -177,16 +192,6 @@
   {
     "category": "koktél",
     "drinks": [
-      {
-        "name": "Appletini",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/appletini_zeqh79.jpg",
-        "ingredients": "4cl vodka, 2cl zöldalma likőr, 4cl almalé"
-      },
-      {
-        "name": "Rainbow shot",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675312/nemdebar/rainbow-shots-1_r9zixv.jpg",
-        "ingredients": "2cl vodka, 4cl narancslé, 2cl grenadine, 2cl blue curacao"
-      },
       {
         "name": "Blue lagoon",
         "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675369/nemdebar/blue-lagoon-koktel-1-scaled_ckba9r.jpg",
@@ -198,19 +203,9 @@
         "ingredients": "3cl vodka, 3cl málna likőr, 5cl ananászlé"
       },
       {
-        "name": "Umbongo",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1710675537/nemdebar/Umbongo_kvqf4q.jpg",
-        "ingredients": "4cl vodka, 3cl maracuja likőr, 3cl narancslé, 2cl citromlé, Canada Dry"
-      },
-      {
         "name": "Kiwi Collins",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711574960/nemdebar_linneh/kiwi_collins_x8yugf.jpg",
+        "image": "https://webosaurus.imgix.net/sweetandsour-production/kiwi-collins.jpeg?auto=format,compress&w=420&dpr=1&q=80",
         "ingredients": "4cl gin, 2cl kivi likőr, 3cl citromlé, 8cl cukorszirup, szóda"
-      },
-      {
-        "name": "Summer Fresh",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360543/nemdebar_linneh/summer_fresh_cjkrnm.jpg",
-        "ingredients": "4cl vodka, 2cl maracuja likőr, 2cl eper szirup, 2cl limelé, almalé"
       },
       {
         "name": "Barbie",
@@ -219,7 +214,7 @@
       },
       {
         "name": "Ízesített vodka szóda",
-        "image": "https://res.cloudinary.com/l1nn3h/image/upload/v1711360318/nemdebar_linneh/vodka_szoda_izjbch.jpg",
+        "image": "https://www.shakedrinkrepeat.com/wp-content/uploads/2021/02/Vodka-Soda-5.jpg",
         "ingredients": "4cl vodka, bármilyen gyümölcsös szirup, szóda"
       }
     ]
